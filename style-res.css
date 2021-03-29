@@ -1,0 +1,13 @@
+@media(max-width: 800px){
+    .parallax, .image-two, .image-three{
+        background-attachment: scroll;
+    }
+
+    .ptext{
+    line-height: 2.2em;
+    }
+    
+    .section{
+        padding: 1em;
+    }
+}
